@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/drawer_shop"
+            android:title="Shop"
+            android:icon="@drawable/ic_shop"/>
+        <item android:id="@+id/drawer_payment"
+            android:title="Payment"
+            android:icon="@drawable/ic_credit_card" />
+        <item android:id="@+id/drawer_chat"
+            android:title="Chat"
+            android:icon="@drawable/chat_icon"/>
+        <item android:id="@+id/drawer_notifications"
+            android:title="Notifications"
+            android:icon="@drawable/notifications_icon"/>
+        <item android:id="@+id/drawer_settings"
+            android:title="Settings"
+            android:icon="@drawable/ic_settings"/>
+        <item android:id="@+id/drawer_rate_us"
+            android:title="Rate Us"
+            android:icon="@drawable/ic_rate_us"/>
+    </group>
+
+</menu>

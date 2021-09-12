@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="true">
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShopFragment"
+    android:background="#22343C">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:background="@drawable/storebanner"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="35dp"/>
+
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="261dp"
+        android:background="@drawable/blacksuiteblazer"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="280dp"/>
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="261dp"
+        android:background="@drawable/bluesuitblazer"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="560dp"
+        android:layout_marginBottom="25dp"/>
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="261dp"
+        android:background="@drawable/yellowsuitblazer"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="280dp"/>
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="261dp"
+        android:background="@drawable/redsuitblazer"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="560dp"
+        android:layout_marginBottom="25dp"/>
+
+
+
+
+</FrameLayout>
+</ScrollView>
