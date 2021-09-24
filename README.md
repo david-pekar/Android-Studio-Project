@@ -8,7 +8,7 @@
 ![payment](https://user-images.githubusercontent.com/89409701/133004102-34e178bd-5400-4cd9-a42f-c6bc6e2a7e18.JPG)
 ![sendsms](https://user-images.githubusercontent.com/89409701/133004103-c0ee07a8-2377-48ef-9449-e3daff3160e0.JPG)
 
-This Project was done as an introduction to Android development.
+This project was done as an introduction to Android development.
 
 Resources Used:
 Figma - Provided visually appealing UI elements. 
@@ -16,7 +16,7 @@ Figma - Provided visually appealing UI elements.
 Features and Highlights:
 Various layout types including Relative and Constraint Layout.
 
-Created different menu files as a templete for naviagtion views. 
+Created different menu files as a template for naviagtion views. 
 Used Different Navigation types such as a Bottom Navigation Bar
 and a Navigation Drawer.
 
